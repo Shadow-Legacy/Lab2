@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="words">Words</string>
+    <string name="characters">Characters</string>
+    <string name="count">Count</string>
+    <string name="result">Result: %d</string>
+    <string name="warning_empty_text">Please enter some text.</string>
+</resources>

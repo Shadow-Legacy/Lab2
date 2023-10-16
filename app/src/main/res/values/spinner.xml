@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="count_options">
+        <item>@string/words</item>
+        <item>@string/characters</item>
+    </string-array>
+</resources>
